@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+.container-slide{
+    width: 70vw;
+    height: 50vh;
+    
+}
+
+.container-items{
+    width: 70vw;
+    height: 50vh;
+    
+}
+
+.item{
+    width: 70vw;
+    height: 50vh;
+}
+
+.item img{
+    width: 70vw;
+    height: 50vh;
+}
+
+    footer{
+        margin-top: -160px;
+    }
